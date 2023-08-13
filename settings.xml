@@ -57,7 +57,7 @@ under the License.
        <repository>
          <id>nexus-snapshot-repo</id>
          <name>your custom repo</name>
-         <url>http://34.205.127.191:8081/repository/maven-snapshots/</url>
+         <url>http://44.208.21.128:8081/repository/maven-snapshots/</url>
        </repository>
 	   
      </repositories>
@@ -68,7 +68,7 @@ under the License.
        <repository>
          <id>nexus-release-repo</id>
          <name>your custom repo</name>
-         <url>http://34.205.127.191:8081/repository/maven-release/</url>
+         <url>http://44.208.21.128:8081/repository/maven-release/</url>
        </repository>
      </repositories>
    </profile>
